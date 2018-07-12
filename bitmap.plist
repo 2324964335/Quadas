@@ -22,7 +22,7 @@
                     <string>1.0.0</string>
                     <key>kind</key>
                     <string>software</string>
-                    <key>测试</key>
+                    <key>title</key>
                     <string>bitmap</string>
                 </dict>
             </dict>
