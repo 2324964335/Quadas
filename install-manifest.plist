@@ -33,15 +33,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.okex.OKExAppstoreBetaOKEx</string>
+				<string>com.jinqiu.test.bitmap</string>
 				<key>bundle-version</key>
-				<string>1.6.8.4</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>OKEx</string>
+				<string>bitmap-iOS</string>
 				<key>title</key>
-				<string>OKEx</string>
+				<string>bitmap-iOS</string>
 			</dict>
 		</dict>
 	</array>
