@@ -13,6 +13,22 @@
                         <key>url</key>
                         <string>https://res.pentax.io/app/1-0-1/bitmapApp.ipa</string>
                     </dict>
+                    <dict>
+                        <key>kind</key>
+                        <string>full-size-image</string>
+                        <key>needs-shine</key>
+                        <true/>
+                        <key>url</key>
+                        <string>http://xxxxxxxxxxxxxxxxxx.png</string>
+                    </dict>
+                    <dict>
+                        <key>kind</key>
+                        <string>display-image</string>
+                        <key>needs-shine</key>
+                        <true/>
+                        <key>url</key>
+                        <string>http://xxxxxxxxxxxxxxxxxx.png</string>
+                    </dict>
                 </array>
                 <key>metadata</key>
                 <dict>
